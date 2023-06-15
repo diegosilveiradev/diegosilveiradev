@@ -1,7 +1,7 @@
 ## Olá! Eu sou Diego Silveira
-Iniciante em Desenvolvimento Mobile Android @Digital House!
+Desenvolvedor Android at Gertec
 
-- Atualmente estudo as tecnologias: Java e Kotlin.
+- Atualmente trabalho com as tecnologias: Java.
 
 <div align="center">
   <a href="https://github.com/diegosilveiradev">
